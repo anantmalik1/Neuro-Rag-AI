@@ -1,341 +1,318 @@
 <div align="center">
 
-<!-- 3D ANIMATED HEADER BANNER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&text=NEURAL%20DOCS&textBg=false&fontSize=80&fontColor=00d4ff&desc=NeuroRAG%20AI%20%E2%80%94%20Document%20Intelligence%20Redefined&descAlignY=65&descSize=18&descFontColor=a78bfa&animation=fadeIn&color=0:0a0a1a,50:0d1b3e,100:1a0a2e&stroke=00d4ff&strokeWidth=2">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NEURAL%20DOCS&textBg=false&fontSize=80&fontColor=00d4ff&desc=NeuroRAG%20AI%20%E2%80%94%20Document%20Intelligence%20Redefined&descAlignY=65&descSize=18&descFontColor=a78bfa&animation=fadeIn&color=0:0a0a1a,50:0d1b3e,100:1a0a2e&stroke=00d4ff&strokeWidth=2" width="100%" alt="NeuroRAG AI Banner"/>
-</picture>
+<img src="https://raw.githubusercontent.com/anantmalik1/Neuro-Rag-AI/main/assets/banner.png" width="100%"/>
 
-<!-- ANIMATED TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=🧠+Intelligent+Document+Understanding;⚡+RAG-Powered+Neural+Search;🔮+Structured.+Intelligent.+Revolutionary." alt="Typing SVG" /></a>
+# ⚡ NEURO RAG AI ⚡
 
----
+### 🧠 Next Generation Intelligent Documentation Ecosystem
 
-<!-- LIVE DEMO BADGE + STATUS -->
-<a href="https://huggingface.co/spaces/anantmalik125/NeuroRAG-AI">
-  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-NeuroRAG%20AI-00d4ff?style=for-the-badge&labelColor=0a0a1a&color=00d4ff&logoColor=white" alt="Live Demo"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Running%20%F0%9F%9F%A2-brightgreen?style=for-the-badge&labelColor=0a0a1a" alt="Status"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Powered_by-RAG%20%2B%20LLM-a78bfa?style=for-the-badge&labelColor=0a0a1a" alt="RAG"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Platform-Hugging%20Face-ff9a00?style=for-the-badge&labelColor=0a0a1a&logo=huggingface&logoColor=ff9a00" alt="HuggingFace"/>
+<p align="center">
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Powered+RAG+Architecture;Neural+Knowledge+System;Future+of+Intelligent+Documentation;Advanced+Semantic+Search;Context-Aware+AI+Engine;Ultra+Modern+AI+Platform" />
 
----
+</p>
 
-<!-- SHOWCASE IMAGE -->
-<div align="center">
-<img src="https://i.imgur.com/placeholder.png" alt="Neural Docs Banner" width="90%" style="border-radius:16px; border: 2px solid #00d4ff; box-shadow: 0 0 40px #00d4ff55;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXF0M3V3OGZlNGJ4d3Q5d2JmMWU2M2w1d3Y4a2M2OHlydHh6d2NkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="100%"/>
 
-> *Replace the above with your actual image URL. The banner image from your project goes here.*
+<p align="center">
 
-</div>
+<img src="https://img.shields.io/github/stars/anantmalik1/Neuro-Rag-AI?style=for-the-badge&logo=github&color=00F7FF"/>
+
+<img src="https://img.shields.io/github/forks/anantmalik1/Neuro-Rag-AI?style=for-the-badge&logo=github&color=FF00FF"/>
+
+<img src="https://img.shields.io/github/issues/anantmalik1/Neuro-Rag-AI?style=for-the-badge&logo=github&color=00FF88"/>
+
+<img src="https://img.shields.io/github/license/anantmalik1/Neuro-Rag-AI?style=for-the-badge&logo=opensourceinitiative&color=ffaa00"/>
+
+</p>
 
 ---
 
-<br/>
+# 🌌 ABOUT THE PROJECT
 
-<!-- 3D ROTATING SEPARATOR -->
-<div align="center">
+> **Neuro RAG AI** is an ultra-futuristic AI-powered intelligent documentation and Retrieval-Augmented Generation platform engineered for next-generation semantic knowledge systems.
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ███╗   ██╗███████╗██╗   ██╗██████╗  ██████╗    ██████╗  █████╗  ║
-║  ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔═══██╗  ██╔══██╗██╔══██╗ ║
-║  ██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║   ██║  ██████╔╝███████║ ║
-║  ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║   ██║  ██╔══██╗██╔══██║ ║
-║  ██║ ╚████║███████╗╚██████╔╝██║  ██║╚██████╔╝  ██║  ██║██║  ██║ ║
-║  ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+✨ Smart Knowledge Retrieval  
+✨ Neural Intelligence  
+✨ AI Context Awareness  
+✨ Vector Database Integration  
+✨ Real-Time Response Generation  
+✨ Cyberpunk Futuristic Architecture  
 
 ---
 
-## 🌐 What is NeuroRAG AI?
+# 🎥 LIVE AI MOTION
 
-<table>
+<p align="center">
+
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="95%"/>
+
+</p>
+
+---
+
+# 🖼️ PROJECT PREVIEW
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/anantmalik1/Neuro-Rag-AI/main/assets/project-preview.png" width="100%"/>
+
+</p>
+
+---
+
+# ⚡ CORE FEATURES
+
+<table align="center">
+
 <tr>
-<td width="60%">
 
-**NeuroRAG AI** is a next-generation **AI-Powered Document Intelligence** system built on **Retrieval-Augmented Generation (RAG)** architecture.
+<td width="33%" align="center">
 
-It transforms how you interact with documents — upload any PDF, research paper, or text file and ask questions in plain language. NeuroRAG uses a **neural search layer** to retrieve the most relevant context, then passes it to a powerful LLM for accurate, grounded answers.
+# 🧠 Neural AI
 
-> *"Not just search. Understanding."*
-
-</td>
-<td width="40%" align="center">
-
-```
-     ┌─────────────────────┐
-     │   📄 Your Document  │
-     └──────────┬──────────┘
-                │
-                ▼
-     ┌─────────────────────┐
-     │  🧠 Neural Encoder  │
-     │  (Embeddings Layer) │
-     └──────────┬──────────┘
-                │
-                ▼
-     ┌─────────────────────┐
-     │  🔍 Vector Search   │
-     │   (FAISS / Chroma)  │
-     └──────────┬──────────┘
-                │
-                ▼
-     ┌─────────────────────┐
-     │   🤖 LLM Response   │
-     │   (Grounded Answer) │
-     └─────────────────────┘
-```
+Advanced AI reasoning and semantic understanding engine.
 
 </td>
+
+<td width="33%" align="center">
+
+# ⚡ Ultra Fast RAG
+
+Blazing fast retrieval augmented generation system.
+
+</td>
+
+<td width="33%" align="center">
+
+# 🌌 Futuristic Interface
+
+Cyberpunk inspired modern AI ecosystem.
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+# 🔍 Semantic Search
+
+Search by meaning, not just keywords.
+
+</td>
+
+<td width="33%" align="center">
+
+# 📚 Structured Docs
+
+Powerful intelligent documentation system.
+
+</td>
+
+<td width="33%" align="center">
+
+# 🤖 AI Assistant
+
+Real-time conversational intelligence layer.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## ✨ Core Features
+# 🚀 TECH STACK
 
 <div align="center">
 
-| 🔮 Feature | ⚡ Description |
-|:---:|:---|
-| **🧠 Neural RAG Engine** | Semantic chunking + dense vector retrieval for pinpoint accuracy |
-| **📄 Multi-Format Ingestion** | Supports PDF, DOCX, TXT, and Markdown documents |
-| **💬 Conversational QA** | Multi-turn dialogue with document-grounded answers |
-| **🔍 Intelligent Search** | Context-aware retrieval with relevance scoring |
-| **⚡ Real-Time Processing** | Fast embedding + inference pipeline |
-| **🎨 Modern UI** | Clean Streamlit interface with intuitive UX |
-| **🌐 Cloud Hosted** | Zero setup — runs live on Hugging Face Spaces |
-| **🔒 Hallucination Control** | Answers strictly grounded in your documents |
+| Frontend | Backend | AI Engine | Database |
+|----------|----------|------------|-----------|
+| React.js | Node.js | OpenAI | MongoDB |
+| Next.js | Express.js | LangChain | Pinecone |
+| Tailwind CSS | FastAPI | HuggingFace | PostgreSQL |
 
 </div>
 
 ---
 
-## 🏗️ System Architecture
+# 🌌 FUTURISTIC AI GALLERY
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                     NeuroRAG AI — Architecture                  │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│   USER INPUT ──► [Streamlit UI] ──► [Query Processor]           │
-│                                            │                     │
-│                         ┌──────────────────┘                    │
-│                         ▼                                        │
-│              [Embedding Model]  ◄──  Sentence Transformers       │
-│                         │                                        │
-│                         ▼                                        │
-│              [Vector Store]  ──  FAISS / ChromaDB                │
-│                         │                                        │
-│              ┌──────────┘                                        │
-│              ▼                                                    │
-│   [Context Retriever] ──► Top-K Relevant Chunks                  │
-│              │                                                   │
-│              ▼                                                    │
-│   [LLM Chain] ──►  Prompt Template  ──►  Final Answer            │
-│                                                                  │
-│   Document Pipeline:                                             │
-│   PDF/DOCX ──► [Loader] ──► [Splitter] ──► [Embedder] ──► Store │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
+<p align="center">
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1600&auto=format&fit=crop" width="48%"/>
+
+<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1600&auto=format&fit=crop" width="48%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?q=80&w=1600&auto=format&fit=crop" width="48%"/>
+
+<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=1600&auto=format&fit=crop" width="48%"/>
+
+</p>
+
+---
+
+# 🧬 SYSTEM ARCHITECTURE
+
+```mermaid
+graph TD
+
+A[User Query] --> B[Embedding Engine]
+B --> C[Vector Database]
+C --> D[Retriever]
+D --> E[LLM Processing]
+E --> F[AI Generated Response]
+
+style A fill:#00F7FF,color:#000
+style B fill:#FF00FF,color:#fff
+style C fill:#00FF88,color:#000
+style D fill:#ffaa00,color:#000
+style E fill:#9D00FF,color:#fff
+style F fill:#00F7FF,color:#000
 ```
 
 ---
 
-## 🚀 Quick Start — Run Locally
-
-### Prerequisites
+# ⚙️ INSTALLATION
 
 ```bash
-Python >= 3.9
-pip
-```
+git clone https://github.com/anantmalik1/Neuro-Rag-AI.git
 
-### Installation
+cd Neuro-Rag-AI
 
-```bash
-# 1️⃣  Clone the repository
-git clone https://huggingface.co/spaces/anantmalik125/NeuroRAG-AI
-cd NeuroRAG-AI
+npm install
 
-# 2️⃣  Install dependencies
-pip install -r requirements.txt
-
-# 3️⃣  Set your API keys (if needed)
-export OPENAI_API_KEY="your_key_here"
-# OR use a local model — no key needed!
-
-# 4️⃣  Launch the app
-streamlit run app.py
-```
-
-### Access
-
-```
-🌐  Local:   http://localhost:8501
-🚀  Live:    https://huggingface.co/spaces/anantmalik125/NeuroRAG-AI
+npm run dev
 ```
 
 ---
 
-## 📦 Tech Stack
+# 🌐 ENVIRONMENT VARIABLES
+
+Create `.env` file:
+
+```env
+OPENAI_API_KEY=your_api_key
+
+MONGODB_URI=your_database_url
+
+PINECONE_API_KEY=your_pinecone_key
+```
+
+---
+
+# 🛸 PROJECT STRUCTURE
+
+```bash
+Neuro-Rag-AI/
+│
+├── frontend/
+├── backend/
+├── ai-engine/
+├── vector-db/
+├── assets/
+├── docs/
+└── README.md
+```
+
+---
+
+# 🔥 ADVANCED CAPABILITIES
+
+✅ AI Powered Retrieval  
+✅ Neural Embedding Search  
+✅ Vector Intelligence  
+✅ Dynamic Knowledge Retrieval  
+✅ Real-Time AI Context  
+✅ Multi-Model AI Integration  
+✅ Semantic Memory System  
+✅ Smart Documentation Layer  
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anantmalik1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantmalik1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 AI WORKFLOW ANIMATION
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="95%"/>
+
+</p>
+
+---
+
+# 🌟 ROADMAP
+
+- [ ] Autonomous AI Agents
+- [ ] Voice AI Integration
+- [ ] Self-Learning Memory Layer
+- [ ] Distributed Vector Network
+- [ ] Multi-Language Intelligence
+- [ ] AI Powered Dashboard
+- [ ] 3D Interactive Interface
+
+---
+
+# 🤝 CONTRIBUTION
+
+Contributions are welcome.
+
+```bash
+Fork → Clone → Create Branch → Commit → Push → Pull Request
+```
+
+---
+
+# 🛡️ LICENSE
+
+MIT License © 2026 Neuro RAG AI
+
+---
+
+# 💫 CREATOR
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/FAISS-0078D4?style=for-the-badge&logo=meta&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+# ⚡ ANANT MALIK ⚡
 
-</div>
+### Building The Future Of AI Documentation
 
-<br/>
+<a href="https://github.com/anantmalik1">
 
-| Layer | Technology |
-|:---|:---|
-| **Frontend** | Streamlit |
-| **Embedding Model** | `sentence-transformers` / HuggingFace models |
-| **Vector Store** | FAISS or ChromaDB |
-| **LLM Backend** | OpenAI GPT / HuggingFace Inference API |
-| **RAG Framework** | LangChain |
-| **Deployment** | Hugging Face Spaces (Docker) |
-| **Language** | Python 3.9+ |
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 
----
-
-## 📂 Project Structure
-
-```
-NeuroRAG-AI/
-│
-├── 📄 app.py                  # Main Streamlit application
-├── 📄 requirements.txt        # Dependencies
-├── 📄 Dockerfile              # Container configuration
-│
-├── 📁 core/
-│   ├── 🧠 embeddings.py       # Embedding model wrapper
-│   ├── 🔍 retriever.py        # Vector search & retrieval
-│   ├── 📄 document_loader.py  # PDF/DOCX ingestion
-│   └── 🤖 qa_chain.py         # RAG chain builder
-│
-├── 📁 utils/
-│   ├── 🔧 chunker.py          # Smart text splitting
-│   └── 🎨 ui_helpers.py       # UI utility functions
-│
-└── 📁 vectorstore/
-    └── 💾 index/              # Persisted FAISS index
-```
-
----
-
-## 🎯 How to Use
-
-```
-Step 1 ──► Open the live app 👉 https://huggingface.co/spaces/anantmalik125/NeuroRAG-AI
-
-Step 2 ──► Upload your document (PDF, DOCX, or TXT)
-
-Step 3 ──► Wait for the Neural Indexing to complete ⚡
-
-Step 4 ──► Ask any question about your document in the chat
-
-Step 5 ──► Get accurate, grounded, AI-powered answers 🧠
-```
-
----
-
-## 📊 Performance Highlights
-
-<div align="center">
-
-```
-  Retrieval Accuracy    ████████████████████░   ~92%
-  Response Relevance    ███████████████████░░   ~88%
-  Processing Speed      ████████████████░░░░░   Fast
-  Hallucination Rate    ██░░░░░░░░░░░░░░░░░░░   Very Low
-  Doc Size Support      ████████████████████░   Up to 200 pages
-```
-
-</div>
-
----
-
-## 🛣️ Roadmap
-
-- [x] Core RAG pipeline
-- [x] PDF document support
-- [x] Streamlit UI
-- [x] HuggingFace deployment
-- [ ] Multi-document comparison mode
-- [ ] Table & chart extraction from PDFs
-- [ ] Voice query interface
-- [ ] API endpoint for external integration
-- [ ] Fine-tuned domain-specific models
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how:
-
-```bash
-# Fork the repo on HuggingFace or GitHub
-# Create your feature branch
-git checkout -b feature/amazing-feature
-
-# Commit your changes
-git commit -m "feat: add amazing feature"
-
-# Push and open a Pull Request
-git push origin feature/amazing-feature
-```
-
----
-
-## 📜 License
-
-```
-MIT License — Free to use, modify, and distribute.
-See LICENSE file for details.
-```
-
----
-
-## 👤 Author
-
-<div align="center">
-
-**Anant Malik**
-
-[![Hugging Face](https://img.shields.io/badge/🤗%20HuggingFace-anantmalik125-ff9a00?style=for-the-badge)](https://huggingface.co/anantmalik125)
-
----
-
-<!-- FOOTER ANIMATION -->
-<a href="https://huggingface.co/spaces/anantmalik125/NeuroRAG-AI">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:a78bfa&height=120&section=footer&text=Experience%20NeuroRAG%20AI&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" alt="Footer"/>
 </a>
 
-<br/>
+<br><br>
 
-*⭐ If you found this useful, please star this project!*
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ STAR THE REPOSITORY ⭐
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+For+Visiting+Neuro+RAG+AI;Future+Begins+Now;AI+Documentation+Reimagined;Built+With+Neural+Intelligence" />
 
 </div>

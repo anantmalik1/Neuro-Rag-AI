@@ -126,3 +126,36 @@ graph LR
     style D fill:#4ECDC4,stroke:#fff,color:#fff
     style G fill:#8A2BE2,stroke:#fff,color:#fff
     style H fill:#FFD93D,stroke:#000,color:#000
+🎨 Features
+<table> <tr> <td width="50%" align="center"> <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100"/> <h3>🧠 Smart Retrieval</h3> <p>Advanced semantic search powered by state-of-the-art embeddings</p> </td> <td width="50%" align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/> <h3>⚡ Real-Time Processing</h3> <p>Optimized pipeline delivers responses in seconds</p> </td> </tr> <tr> <td width="50%" align="center"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100"/> <h3>🎯 Context-Aware</h3> <p>Understands document nuances for accurate answers</p> </td> <td width="50%" align="center"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/> <h3>🌈 Beautiful Interface</h3> <p>Clean, modern Gradio UI that's a joy to use</p> </td> </tr> </table>
+📊 Stats & Performance
+<div align="center">
+Profile Views
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anantmalik125&theme=radical&hide_border=true&background=0D1117&ring=8A2BE2&fire=FF0066&currStreakLabel=8A2BE2" width="48%"/> </div>
+👨‍💻 Meet the Creator
+<div align="center"> <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+Anant Malik
+AI Engineer & Innovator
+
+<a href="https://huggingface.co/anantmalik125"> <img src="https://img.shields.io/badge/🤗_Hugging_Face-anantmalik125-FFD21E?style=for-the-badge" /> </a> <br/>
+"Building intelligent systems that empower humans."
+
+</div>
+🤝 Contributing
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
+Contributions are welcome! Feel free to:
+
+🐛 Report bugs
+💡 Suggest new features
+🔧 Submit pull requests
+⭐ Star the project
+<br clear="right"/>
+📜 License
+This project is licensed under the MIT License — feel free to use, modify, and distribute!
+
+<div align="center">
+💖 Show Your Support
+If you like this project, please give it a ⭐ on Hugging Face!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&animation=twinkling" width="100%"/> <!-- 🎬 ANIMATED FOOTER --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Made+with+❤️+and+☕;Powered+by+🤗+Hugging+Face;Built+by+Anant+Malik;⭐+Star+if+you+like+it!" /> <br/> <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/made-with-python.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> </div> ```

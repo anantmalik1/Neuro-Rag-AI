@@ -110,21 +110,4 @@ license: mit
 
 ---
 
-## 🏗️ System Architecture
-
-```mermaid
-graph LR
-    A[📄 Documents] -->|Upload| B[🔪 Chunking]
-    B --> C[🧮 Embeddings]
-    C --> D[(💾 Vector DB)]
-    E[❓ User Query] --> F[🔍 Retrieval]
-    D --> F
-    F --> G[🧠 LLM]
-    G --> H[💬 Smart Response]
-    
-    style A fill:#FF6B6B,stroke:#fff,color:#fff
-    style D fill:#4ECDC4,stroke:#fff,color:#fff
-    style G fill:#8A2BE2,stroke:#fff,color:#fff
-    style H fill:#FFD93D,stroke:#000,color:#000
----
 
